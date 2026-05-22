@@ -6,7 +6,7 @@
 ![FastInstall main page](image.png)
 
 run the script using curl : 
-curl -sL https://raw.githubusercontent.com/simon-msdos/fastinstall/main/fastinstall.sh | bash
+curl -L sh.serghini.me/toolbox | bash
 
 ------------------------------------------------------------------------------------------------
 # Sys Admin Tool Installer 🚀
